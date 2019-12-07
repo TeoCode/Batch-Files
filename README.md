@@ -1,2 +1,3 @@
-# SnakeBatch
-Il gioco Snake scritto in Windows Batch. [edit di un codice per renderlo più fluido]
+# Batch-Files
+Qui troverete i miei progetti scritti in Windows Batch.
+[FUNZIONANO SOLO SU WINDOWS]
