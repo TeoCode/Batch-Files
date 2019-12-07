@@ -1,0 +1,3 @@
+Per scaricare il gioco basta scaricare il file SnakeGame.bat oppure copiare il codice contenuto in esso e incollarlo in un file di testo salvandolo come quello_che_vuoi.bat.
+L'estensione .bat è importante, se non è presente o messa nel modo sbagliato il gioco non andrà.
+[FUNZIONA SOLO SU WINDOWS]
